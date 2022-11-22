@@ -1,3 +1,3 @@
 # proposal
 
-test webhook
+test webhooks
